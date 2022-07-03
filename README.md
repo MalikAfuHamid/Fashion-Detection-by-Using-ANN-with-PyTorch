@@ -1,1 +1,1 @@
-# Fashion-Detection-by-Using-ANN
+# Fashion-Classification-by-Using-ANN
