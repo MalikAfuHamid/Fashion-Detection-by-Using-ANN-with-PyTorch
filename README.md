@@ -1,1 +1,1 @@
-# Fashion-Classification-by-Using-ANN
+# Fashion-Classification-by-Using-ANN with PyTorch
